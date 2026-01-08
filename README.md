@@ -5,7 +5,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/Chil30/vless-all-in-one?style=flat-square&logo=github)](https://github.com/Chil30/vless-all-in-one/issues)
 [![GitHub License](https://img.shields.io/github/license/Chil30/vless-all-in-one?style=flat-square)](https://github.com/Chil30/vless-all-in-one/blob/main/LICENSE)
 [![GitHub Downloads](https://img.shields.io/github/downloads/Chil30/vless-all-in-one/total?style=flat-square&logo=github)](https://github.com/Chil30/vless-all-in-one/releases)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChil30%2Fvless-all-in-one&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FChil30%2Fvless-all-in-one)
 
 一个简单易用的多协议代理部署脚本，支持 **14 种主流协议**，服务端/客户端一键安装，适用于 Alpine、Debian、Ubuntu、CentOS 等 Linux 发行版。
 
